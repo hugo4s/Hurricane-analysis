@@ -1,3 +1,7 @@
+<img src="https://github.com/hugo4s/coded_correspondence_python/assets/140451515/611eeabf-c0b8-4caa-9a57-30dee6e0acca" width="300"> 
+
+
+
 # Hurricane Analysis Project
 
 ## Overview
